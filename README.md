@@ -48,3 +48,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satya-Prabhu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+ 
+</div>
