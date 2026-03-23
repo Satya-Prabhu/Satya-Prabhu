@@ -10,8 +10,6 @@
  
 </div>
 
----
-
 ## 🌐 Socials:
 
 <div align="center">
