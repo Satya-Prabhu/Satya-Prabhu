@@ -1,5 +1,9 @@
 # 💫 About Me:
+
+<div align="justify">
 <br>CAREER SUMMARY<br>I am currently pursuing my BCA, I aspire to be a web developer and have basic skills in Front-end<br>web development. I enjoy exploring new programming languages and frameworks. My strong<br>attention to detail and problem-solving skills help me create high-quality and innovative solutions.<br>
+
+</div>
 
 ## 🌐 Socials:
 <div align="center">
