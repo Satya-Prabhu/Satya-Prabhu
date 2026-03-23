@@ -2,7 +2,11 @@
 
 <br>CAREER SUMMARY<br>I am currently pursuing my BCA, I aspire to be a web developer and have basic skills in Front-end<br>web development. I enjoy exploring new programming languages and frameworks. My strong<br>attention to detail and problem-solving skills help me create high-quality and innovative solutions.<br>
 
-
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Satya%20Prabhu&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer%20%7C%20BCA%20Student%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+ 
+</div>
 
 ## 🌐 Socials:
 
